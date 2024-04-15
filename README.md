@@ -1,4 +1,4 @@
 # DataScienceEcosystem---Jupyter-Notebook
-This notebook will be used for the Peer  Reviewed Assignment of the Tools for Data Science course.
+This notebook will be used for the Peer Reviewed Assignments for IBM Data Science Professional course.
 Hands-on Lab: Create your Jupyter Notebook
-Module 2 - Peer Review Assignment
+Peer Review Assignments
